@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## CAPTURAS
+![image](https://github.com/veronicaruizav/Act1UIIIAndroid/assets/143547403/8d5b3014-be0f-4f69-9947-f4fce0e9db0
