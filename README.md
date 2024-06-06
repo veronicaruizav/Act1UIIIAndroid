@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## CAPTURAS
-![image](https://github.com/veronicaruizav/Act1UIIIAndroid/assets/143547403/8d5b3014-be0f-4f69-9947-f4fce0e9db0
+![image](https://github.com/veronicaruizav/Act1UIIIAndroid/assets/143547403/012bafb1-0cb0-4e00-8b15-07c0675c12d9)
